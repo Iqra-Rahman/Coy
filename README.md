@@ -471,6 +471,6 @@ For a production application, the following improvements could be considered:
 
 Copyright © 2026 Iqra Rahman. All rights reserved.
 
-This project was developed independently as part of the Coy Software Development Engineer internship assessment.
+This project was developed independently as part of the Coy Software Development Engineer assessment.
 
 The source code is provided for recruitment and evaluation purposes only. Commercial use, redistribution, or modification without prior written permission is prohibited.
