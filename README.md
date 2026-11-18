@@ -420,8 +420,15 @@ improvements could be considered:
 
 Iqra Rahman
 
-Developed as part of the Coy Software Development
-Engineer take-home assignment.
+## Copyright
 
-This project is an independent assignment
-implementation inspired by Coy.
+Copyright © 2026 Iqra Rahman. All rights reserved.
+
+This project was developed independently as part of
+the Coy Software Development Engineer internship
+assessment.
+
+The source code is provided for recruitment and
+evaluation purposes only. Commercial use,
+redistribution, or modification without prior
+written permission is prohibited.
